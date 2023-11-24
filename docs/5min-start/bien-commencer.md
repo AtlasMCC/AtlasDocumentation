@@ -126,3 +126,5 @@ Vidéo : [SlimeFun Vidéo](https://youtu.be/RiyNemIqj0Q?si=tz6-G1CZ1EYY7Adq)
 
 
 *Dernière modification : 20:50 04/11/2023*
+
+Crédit Newmo
