@@ -1,0 +1,16 @@
+{
+  "title": "Slime Fun",
+  "description": "Tout savoir sur slime fun",
+  "slug": "/category/slime-fun",
+  "permalink": "/docs/category/slime-fun",
+  "navigation": {
+    "previous": {
+      "title": "III- Les commandes Towny",
+      "permalink": "/docs/commands/towny"
+    },
+    "next": {
+      "title": "IV- les commandes SlimeFun",
+      "permalink": "/docs/commands/slimefun-teste/slimefun"
+    }
+  }
+}

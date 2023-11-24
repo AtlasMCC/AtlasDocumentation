@@ -1,0 +1,27 @@
+{
+  "id": "reglement-atlasmc/tos",
+  "title": "TOS",
+  "description": "",
+  "source": "@site/docs/reglement-atlasmc/tos.md",
+  "sourceDirName": "reglement-atlasmc",
+  "slug": "/reglement-atlasmc/tos",
+  "permalink": "/docs/reglement-atlasmc/tos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://discord.gg/ySA7wrcYrj/docs/reglement-atlasmc/tos.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Règlement en jeu (Minecraft)",
+    "permalink": "/docs/reglement-atlasmc/minecraft"
+  },
+  "next": {
+    "title": "Tutorial - Basics",
+    "permalink": "/docs/category/tutorial---basics"
+  }
+}

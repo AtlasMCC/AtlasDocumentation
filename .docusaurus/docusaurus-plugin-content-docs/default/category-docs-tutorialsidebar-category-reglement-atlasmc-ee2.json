@@ -1,0 +1,16 @@
+{
+  "title": "Règlement AtlasMC",
+  "description": "Ici tu pourra retrouver tous les règle d'AtlasMC",
+  "slug": "/category/règlement-atlasmc",
+  "permalink": "/docs/category/règlement-atlasmc",
+  "navigation": {
+    "previous": {
+      "title": "Tutorial Intro",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Règlement Discord",
+      "permalink": "/docs/reglement-atlasmc/discord"
+    }
+  }
+}

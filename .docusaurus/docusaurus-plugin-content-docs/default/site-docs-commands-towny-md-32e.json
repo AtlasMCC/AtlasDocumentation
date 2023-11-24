@@ -1,0 +1,27 @@
+{
+  "id": "commands/towny",
+  "title": "III- Les commandes Towny",
+  "description": "- Towny est un plugin de protection de zone et de simulation de ville et de nation qui vous permet de créer, protéger et de gérer votre ville, de posséder des terres ainsi que de former des nations et des alliances.",
+  "source": "@site/docs/commands/towny.md",
+  "sourceDirName": "commands",
+  "slug": "/commands/towny",
+  "permalink": "/docs/commands/towny",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://discord.gg/ySA7wrcYrj/docs/commands/towny.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "II- Les commandes des métiers",
+    "permalink": "/docs/commands/jobs"
+  },
+  "next": {
+    "title": "IV- les commandes SlimeFun",
+    "permalink": "/docs/commands/slimefun"
+  }
+}

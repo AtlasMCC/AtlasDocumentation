@@ -1,0 +1,27 @@
+{
+  "id": "commands/slimefun",
+  "title": "IV- les commandes SlimeFun",
+  "description": "- SlimeFun ajoute des objets ainsi que de nouvelles fonctionnalités. Il vous suffit d'avoir de l'xp pour débloquer chaque recette de ce plugin. On peut y retrouver :",
+  "source": "@site/docs/commands/slimefun.md",
+  "sourceDirName": "commands",
+  "slug": "/commands/slimefun",
+  "permalink": "/docs/commands/slimefun",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://discord.gg/ySA7wrcYrj/docs/commands/slimefun.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "III- Les commandes Towny",
+    "permalink": "/docs/commands/towny"
+  },
+  "next": {
+    "title": "Tutorial Intro",
+    "permalink": "/docs/intro"
+  }
+}

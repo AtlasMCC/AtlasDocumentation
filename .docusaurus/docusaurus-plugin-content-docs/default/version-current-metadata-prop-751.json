@@ -1,0 +1,282 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "category",
+        "label": "Commencer en 5 minutes",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Sommaire",
+            "href": "/docs/5min-start/bien-commencer",
+            "docId": "5min-start/bien-commencer",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/commencer-en-5-minutes"
+      },
+      {
+        "type": "category",
+        "label": "Liste des commandes",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "I- Généralité",
+            "href": "/docs/commands/Introduction",
+            "docId": "commands/Introduction",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "II- Les commandes des métiers",
+            "href": "/docs/commands/jobs",
+            "docId": "commands/jobs",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "III- Les commandes Towny",
+            "href": "/docs/commands/towny",
+            "docId": "commands/towny",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "IV- les commandes SlimeFun",
+            "href": "/docs/commands/slimefun",
+            "docId": "commands/slimefun",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/liste-des-commandes"
+      },
+      {
+        "type": "link",
+        "label": "Tutorial Intro",
+        "href": "/docs/intro",
+        "docId": "intro",
+        "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "Règlement AtlasMC",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Règlement Discord",
+            "href": "/docs/reglement-atlasmc/discord",
+            "docId": "reglement-atlasmc/discord",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Règlement en jeu (Minecraft)",
+            "href": "/docs/reglement-atlasmc/minecraft",
+            "docId": "reglement-atlasmc/minecraft",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "TOS",
+            "href": "/docs/reglement-atlasmc/tos",
+            "docId": "reglement-atlasmc/tos",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/règlement-atlasmc"
+      },
+      {
+        "type": "category",
+        "label": "Tutorial - Basics",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Create a Page",
+            "href": "/docs/tutorial-basics/create-a-page",
+            "docId": "tutorial-basics/create-a-page",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Create a Document",
+            "href": "/docs/tutorial-basics/create-a-document",
+            "docId": "tutorial-basics/create-a-document",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Create a Blog Post",
+            "href": "/docs/tutorial-basics/create-a-blog-post",
+            "docId": "tutorial-basics/create-a-blog-post",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Markdown Features",
+            "href": "/docs/tutorial-basics/markdown-features",
+            "docId": "tutorial-basics/markdown-features",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Deploy your site",
+            "href": "/docs/tutorial-basics/deploy-your-site",
+            "docId": "tutorial-basics/deploy-your-site",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Congratulations!",
+            "href": "/docs/tutorial-basics/congratulations",
+            "docId": "tutorial-basics/congratulations",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/tutorial---basics"
+      },
+      {
+        "type": "category",
+        "label": "Tutorial - Extras",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Manage Docs Versions",
+            "href": "/docs/tutorial-extras/manage-docs-versions",
+            "docId": "tutorial-extras/manage-docs-versions",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Translate your site",
+            "href": "/docs/tutorial-extras/translate-your-site",
+            "docId": "tutorial-extras/translate-your-site",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/tutorial---extras"
+      }
+    ]
+  },
+  "docs": {
+    "5min-start/bien-commencer": {
+      "id": "5min-start/bien-commencer",
+      "title": "Sommaire",
+      "description": "### I- Généralité",
+      "sidebar": "tutorialSidebar"
+    },
+    "commands/Introduction": {
+      "id": "commands/Introduction",
+      "title": "I- Généralité",
+      "description": "- Ici vous retrouverez toutes les commandes utiles en début de jeu. Nous vous conseillons d'en prendre connaissance avant de vous lancer à l'aventure !",
+      "sidebar": "tutorialSidebar"
+    },
+    "commands/jobs": {
+      "id": "commands/jobs",
+      "title": "II- Les commandes des métiers",
+      "description": "- Les Jobs sont des moyens de gagner de l'argent grâce à différents métiers prédéfinit.",
+      "sidebar": "tutorialSidebar"
+    },
+    "commands/slimefun": {
+      "id": "commands/slimefun",
+      "title": "IV- les commandes SlimeFun",
+      "description": "- SlimeFun ajoute des objets ainsi que de nouvelles fonctionnalités. Il vous suffit d'avoir de l'xp pour débloquer chaque recette de ce plugin. On peut y retrouver :",
+      "sidebar": "tutorialSidebar"
+    },
+    "commands/towny": {
+      "id": "commands/towny",
+      "title": "III- Les commandes Towny",
+      "description": "- Towny est un plugin de protection de zone et de simulation de ville et de nation qui vous permet de créer, protéger et de gérer votre ville, de posséder des terres ainsi que de former des nations et des alliances.",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Tutorial Intro",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "reglement-atlasmc/discord": {
+      "id": "reglement-atlasmc/discord",
+      "title": "Règlement Discord",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "reglement-atlasmc/minecraft": {
+      "id": "reglement-atlasmc/minecraft",
+      "title": "Règlement en jeu (Minecraft)",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "reglement-atlasmc/tos": {
+      "id": "reglement-atlasmc/tos",
+      "title": "TOS",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/congratulations": {
+      "id": "tutorial-basics/congratulations",
+      "title": "Congratulations!",
+      "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/create-a-blog-post": {
+      "id": "tutorial-basics/create-a-blog-post",
+      "title": "Create a Blog Post",
+      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/create-a-document": {
+      "id": "tutorial-basics/create-a-document",
+      "title": "Create a Document",
+      "description": "Documents are groups of pages connected through:",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/create-a-page": {
+      "id": "tutorial-basics/create-a-page",
+      "title": "Create a Page",
+      "description": "Add Markdown or React files to src/pages to create a standalone page:",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/deploy-your-site": {
+      "id": "tutorial-basics/deploy-your-site",
+      "title": "Deploy your site",
+      "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/markdown-features": {
+      "id": "tutorial-basics/markdown-features",
+      "title": "Markdown Features",
+      "description": "Docusaurus supports Markdown and a few additional features.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-extras/manage-docs-versions": {
+      "id": "tutorial-extras/manage-docs-versions",
+      "title": "Manage Docs Versions",
+      "description": "Docusaurus can manage multiple versions of your docs.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-extras/translate-your-site": {
+      "id": "tutorial-extras/translate-your-site",
+      "title": "Translate your site",
+      "description": "Let's translate docs/intro.md to French.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

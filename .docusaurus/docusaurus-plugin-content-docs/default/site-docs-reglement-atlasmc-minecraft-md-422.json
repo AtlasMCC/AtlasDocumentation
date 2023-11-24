@@ -1,0 +1,27 @@
+{
+  "id": "reglement-atlasmc/minecraft",
+  "title": "Règlement en jeu (Minecraft)",
+  "description": "",
+  "source": "@site/docs/reglement-atlasmc/minecraft.md",
+  "sourceDirName": "reglement-atlasmc",
+  "slug": "/reglement-atlasmc/minecraft",
+  "permalink": "/docs/reglement-atlasmc/minecraft",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://discord.gg/ySA7wrcYrj/docs/reglement-atlasmc/minecraft.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Règlement Discord",
+    "permalink": "/docs/reglement-atlasmc/discord"
+  },
+  "next": {
+    "title": "TOS",
+    "permalink": "/docs/reglement-atlasmc/tos"
+  }
+}

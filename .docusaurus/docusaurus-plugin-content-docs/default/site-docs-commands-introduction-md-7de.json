@@ -1,0 +1,27 @@
+{
+  "id": "commands/Introduction",
+  "title": "I- Généralité",
+  "description": "- Ici vous retrouverez toutes les commandes utiles en début de jeu. Nous vous conseillons d'en prendre connaissance avant de vous lancer à l'aventure !",
+  "source": "@site/docs/commands/Introduction.md",
+  "sourceDirName": "commands",
+  "slug": "/commands/Introduction",
+  "permalink": "/docs/commands/Introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://discord.gg/ySA7wrcYrj/docs/commands/Introduction.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Liste des commandes",
+    "permalink": "/docs/category/liste-des-commandes"
+  },
+  "next": {
+    "title": "II- Les commandes des métiers",
+    "permalink": "/docs/commands/jobs"
+  }
+}
