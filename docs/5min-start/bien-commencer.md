@@ -120,8 +120,9 @@ Vidéo : [SlimeFun Vidéo](https://youtu.be/RiyNemIqj0Q?si=tz6-G1CZ1EYY7Adq)
 
 ## AtlasMC - Crédit
 
-Discord : [AtlasMC](https://discord.gg/AQtTVR65Qb)
-Minecraft : `play.atlasmc.fr`
-Statue : Dev BETA
+- Discord : [AtlasMC](https://discord.gg/AQtTVR65Qb)
+- Minecraft : `play.atlasmc.fr`
+- Statue : Dev BETA
+
 
 *Dernière modification : 20:50 04/11/2023*
