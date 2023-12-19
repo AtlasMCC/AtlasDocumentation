@@ -28,3 +28,44 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.hero {
+  /*background-color: black;*/
+  background-image: url("/static/img/atlasbackground.png");
+}
+
+.header-discord-link:hover {
+  opacity: 0.6;
+}
+
+.header-discord-link::before {
+  content: '';
+  width: 24px;
+  height: 24px;
+  display: flex;
+  background: url("/static/img/discord-logo2.png")
+    no-repeat;
+}
+
+[data-theme='dark'] .header-discord-link::before {
+  background: url("/static/img/discord-logo2.png")
+    no-repeat;
+}
+
+.header-instagram-link:hover {
+  opacity: 0.6;
+}
+
+.header-instagram-link::before {
+  content: '';
+  width: 24px;
+  height: 24px;
+  display: flex;
+  background: url("/static/img/instagram_logo.png")
+    no-repeat;
+}
+
+[data-theme='dark'] .header-instagram-link::before {
+  background: url("/static/img/instagram_logo.png")
+    no-repeat;
+}
