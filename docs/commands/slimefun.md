@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# IV- les commandes SlimeFun
+# IV- 🌴 SlimeFun
 
 - SlimeFun ajoute des objets ainsi que de nouvelles fonctionnalités. Il vous suffit d'avoir de l'xp pour débloquer chaque recette de ce plugin. On peut y retrouver :
 	- La magie

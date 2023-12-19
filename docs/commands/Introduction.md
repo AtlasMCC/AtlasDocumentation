@@ -2,13 +2,15 @@
 sidebar_position: 1
 ---
 
-# I- Généralité
+# I- 👋 Généralité
 
-- Ici vous retrouverez toutes les commandes utiles en début de jeu. Nous vous conseillons d'en prendre connaissance avant de vous lancer à l'aventure !
+- Ici vous retrouverez toutes les commandes utiles en début de jeu. Nous vous conseillons d'en prendre connaissance avant de vous lancer dans votre nouvelle aventure !
 
 ## 1- Introduction
 
 - Rappel des commandes de base du serveur.
+
+`/menu` : Menu général du serveur.
 
 `/help` : Donne les commandes utile en jeu.
 

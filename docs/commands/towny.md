@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# III- Les commandes Towny
+# III- 🏡 Les villes et nations
 
 - Towny est un plugin de protection de zone et de simulation de ville et de nation qui vous permet de créer, protéger et de gérer votre ville, de posséder des terres ainsi que de former des nations et des alliances.
 

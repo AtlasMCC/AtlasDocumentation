@@ -69,21 +69,36 @@ const config = {
         title: 'AtlasMC Docu',
         logo: {
           alt: 'AtlasMC Logo',
-          src: 'img/logo.svg',
+          src: 'img/ArrondiAtlas-removebg-preview.png',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentation',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          //{
-          //  href: 'https://github.com/facebook/docusaurus',
-          //  label: 'GitHub',
-          //  position: 'right',
-          //},
+          {
+            href: 'https://blank.org',
+            label: '🗺️ Voir la map',
+          },
+          {
+            href: 'https://blank.org',
+            label: ' Wiki'
+          },
+          {
+            href: 'https://discord.gg/yfDJfcBv',
+            className: 'header-discord-link',
+            'aria-label': 'Discord',
+            position: 'right',
+          },
+          {
+            href: 'https://www.instagram.com/atlasmc_off/',
+            className: 'header-instagram-link',
+            'aria-label': 'Instagram',
+            position: 'right',
+          }
         ],
       },
       footer: {
