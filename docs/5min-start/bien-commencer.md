@@ -8,17 +8,17 @@ sidebar_position: 3
 
 AtlasMC est extêmement libre. Nous ne limitons aucunement votre gameplay. On vous donne les outils, et vous faites comme bon vous semble ! A vous de choisir si pour vous l'important c'est le build, le RP, l'économie, la guerre, etc...
  
-Vous souhaitez créer un rp tourant autour d'une dictature ? Vous pouvez !\
+Vous souhaitez créer un rp tournant autour d'une dictature ? Vous pouvez !\
 Vous souhaitez créer une milice ou une mafia réputée pour rendre des services ? Vous pouvez !\
 Vous souhaitez créer la plus prestigieuse nation par son architecture incontournable ? Vous pouvez !\
-Vous souhaitez devenir le joueur ou la nation le/la plus riche du serveur ? Vous pouvez également !
+Vous souhaitez devenir la nation la plus riche du serveur ? Vous pouvez également !
 
 
-En bref, nous ne vous limitrons jamais en terme de gameplay et nous ferons notre possible pour vous fournir les outils nécessaires pour la mise en place de votre RP.
+En bref, nous ne vous limiterons jamais en terme de gameplay et nous ferons notre possible pour vous fournir les outils nécessaires pour la mise en place de votre RP.
 
 ## :performing_arts: RP
 
-Le RP n'est pas toujours obligatoire, mais est très fortement conseillé ! N'hésitez pas a créer des personnages complexes, a travailler ces personnages pour les emmener les plus loin possible !
+Le RP n'est pas toujours obligatoire, mais est très fortement conseillé ! N'hésitez pas a créer des personnages complexes, a travailler ces personnages pour les emmener le plus loin possible !
 
 Vous êtes invités également a traiter la diplomatie entre les différentes villes ou nations avec RP. C'est de cette manière qu'est pensée le gameplay.
 
@@ -30,13 +30,13 @@ Le [guide RP](https://blank.org) est également disponible.
 
 :globe_with_meridians: AtlasMC est un serveur donc, __Survie__, __Nation__, __Géopolitique__ et surtout __Semi-RP__.
 
-:dart: Les principaux objectifs sont de créer une/des ville/s, de les faire grandir et peut être rejoindre une nation, jusque devenir une des villes les plus importantes économiquement, architecturalement, militairement parlant. 
+:dart: Les principaux objectifs sont de créer une ou plusieurs villes, de les faire grandir et peut être rejoindre une nation, jusque devenir une des villes les plus importantes économiquement, architecturalement ou militairement parlant. 
 
 ## :world_map: Map de jeux
 
 Le serveur est découpé en deux mondes.\
 La **WorldMap** est la map principale, là où vous allez constuire votre ville ou votre nation. C'est un planisphère de la Terre.\
-Le **RessourceWorld** est un monde ressource regénéré toutes les semaines de façon aléatoire. C'est ici que vous allez récolter vos précieuses ressources.
+Le **RessourceWorld** est un monde ressource, regénéré toutes les semaines de façon aléatoire. C'est ici que vous allez récolter vos précieuses ressources.
 
 ## :house_with_garden: Villes et Nations
 
@@ -46,7 +46,7 @@ Le but principal est donc de créer une ville ou une nation.
 
 Pour créer une ville, un minimum de `100U` est nécessaire.\
 Comptez ensuite une taxe de `10U/jour` par claim possédé pour maintenir votre ville sur le serveur.\
-Pour payez vos taxes, pensez à déposer de l'argent dans votre banque. 
+Pour payer vos taxes, pensez à déposer de l'argent dans votre banque. 
 
 Une aide sur les [commandes des villes](/docs/commands/towny.md) est disponible.
 

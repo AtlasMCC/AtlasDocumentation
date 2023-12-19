@@ -46,13 +46,13 @@ const config = {
           editUrl:
             'https://discord.gg/ySA7wrcYrj',
         },
-        blog: {
-          showReadingTime: true,
+        //blog: {
+          //showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://discord.gg/ySA7wrcYrj',
-        },
+          //editUrl:
+          //  'https://discord.gg/ySA7wrcYrj',
+        //},
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -78,7 +78,7 @@ const config = {
             position: 'left',
             label: 'Documentation',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          //{to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://blank.org',
             label: '🗺️ Voir la map',
@@ -108,39 +108,43 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Bien commencer',
+                to: '/docs/5min-start/bien-commencer',
               },
+              {
+                label: 'Commandes utiles',
+                to:'/docs/category/fonctionnalités',
+              }
             ],
           },
           {
             title: 'AtlasMC',
             items: [
-              {
-                label: 'Site internet',
-                href: 'https://blank.org',
-              },
+              //{
+              //  label: 'Site internet',
+              //  href: 'https://blank.org',
+              //},
               {
                 label: 'Discord',
                 href: 'https://discord.gg/ySA7wrcYrj',
               },
               {
                 label: 'Adresse IP',
-                href: 'play.atlasmc.fr',
+                href: '/docs/5min-start/rejoindre-le-serveur',
               },
             ],
           },
-          {
-            title: 'Pages',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-            ],
-          },
+          //{
+          //  title: 'Pages',
+          //  items: [
+          //    {
+          //      label: 'Blog',
+          //      to: '/blog',
+          //    },
+          //  ],
+          //},
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} AtlasMC. Construit avec amour`,
+        copyright: `Copyright © ${new Date().getFullYear()} AtlasMC. Construit avec amour ❤️`,
       },
       prism: {
         theme: prismThemes.github,
