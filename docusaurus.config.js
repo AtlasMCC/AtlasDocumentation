@@ -38,9 +38,8 @@ const config = {
 
   presets: [
     [
-      'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
+      '@docusaurus/preset-classic',
+      {
         docs: {
           routeBasePath: '/', 
           sidebarPath: './sidebars.js',
@@ -59,7 +58,7 @@ const config = {
         theme: {
           customCss: './src/css/custom.css',
         },
-      }),
+      },
     ],
   ],
 
@@ -112,11 +111,11 @@ const config = {
             items: [
               {
                 label: 'Bien commencer',
-                to: '/docs/5min-start/bien-commencer',
+                to: '/5min-start/bien-commencer',
               },
               {
                 label: 'Commandes utiles',
-                to:'/docs/category/fonctionnalités',
+                to:'/category/fonctionnalités',
               }
             ],
           },
@@ -133,7 +132,7 @@ const config = {
               },
               {
                 label: 'Adresse IP',
-                href: '/docs/5min-start/rejoindre-le-serveur',
+                href: '/5min-start/rejoindre-le-serveur',
               },
             ],
           },
