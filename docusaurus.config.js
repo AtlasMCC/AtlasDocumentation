@@ -75,12 +75,12 @@ const config = {
           src: 'img/ArrondiAtlas-removebg-preview.png',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Documentation',
-          },
+          //{
+          //  type: 'docSidebar',
+          //  sidebarId: 'tutorialSidebar',
+          //  position: 'left',
+          //  label: 'Documentation',
+          //},
           //{to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://blank.org',
