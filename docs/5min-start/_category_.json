@@ -2,8 +2,7 @@
   "label": "Commencer en 5 minutes",
   "position": 1,
   "link": {
-    "type": "doc", 
-    "id": "intro",
+    "type": "generated-index",
     "description": "5 minutes pour apprendre le strict nécessaire."
   }
 }
