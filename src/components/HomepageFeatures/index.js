@@ -9,7 +9,7 @@ const FeatureList = [
     description: (
       <>
         Fais la vivre, recrute des habitants et étend là
-        Construit les plus beaux batiments !"
+        Construit les plus beaux batiments !
       </>
     ),
   },
@@ -28,7 +28,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Pour étendre ton territoire, pour...
+        Pour étendre ton territoire et devenir la nation la plus puissante !
       </>
     ),
   },
