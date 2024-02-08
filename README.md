@@ -1,6 +1,6 @@
-# AtlasMC Documentation
+# AtlasNation Documentation
 
-Ceci est la documentation d'AtlasMC.
+Ceci est la documentation d'AtlasNation.
 Réalisée avec [Docusaurus](https://docusaurus.io).
 Chaque page est écrite en Markdown.
 Certaines pages, comme la principale est écrite en JS.

@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'AtlasMC Docu',
+  title: 'AtlasNation',
   tagline: 'Le monde n\'attend que vous !',
   favicon: 'img/favicon.ico',
 
@@ -68,9 +68,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/atlasmc-social-card.jpg',
       navbar: {
-        title: 'AtlasMC Docu',
+        title: 'AtlasNation',
         logo: {
-          alt: 'AtlasMC Logo',
+          alt: 'AtlasNation Logo',
           src: 'img/ArrondiAtlas-removebg-preview.png',
         },
         items: [
@@ -82,12 +82,8 @@ const config = {
           //},
           //{to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://blank.org',
+            href: 'https://atlasnation.fr/map',
             label: '🗺️ Voir la map',
-          },
-          {
-            href: 'https://blank.org',
-            label: ' Wiki'
           },
           {
             href: 'https://discord.gg/yfDJfcBv',
@@ -120,7 +116,7 @@ const config = {
             ],
           },
           {
-            title: 'AtlasMC',
+            title: 'AtlasNation',
             items: [
               //{
               //  label: 'Site internet',

@@ -6,7 +6,7 @@ sidebar_position: 3
 
 ## :bird: Libertés
 
-AtlasMC est extêmement libre. Nous ne limitons aucunement votre gameplay. On vous donne les outils, et vous faites comme bon vous semble ! A vous de choisir si pour vous l'important c'est le build, le RP, l'économie, la guerre, etc...
+AtlasNation est extêmement libre. Nous ne limitons aucunement votre gameplay. On vous donne les outils, et vous faites comme bon vous semble ! A vous de choisir si pour vous l'important c'est le build, le RP, l'économie, la guerre, etc...
  
 Vous souhaitez créer un rp tournant autour d'une dictature ? Vous pouvez !\
 Vous souhaitez créer une milice ou une mafia réputée pour rendre des services ? Vous pouvez !\
@@ -28,7 +28,7 @@ Le [guide RP](https://blank.org) est également disponible.
 
 # Mode de jeu
 
-:globe_with_meridians: AtlasMC est un serveur donc, __Survie__, __Nation__, __Géopolitique__ et surtout __Semi-RP__.
+:globe_with_meridians: AtlasNation est un serveur donc, __Survie__, __Nation__, __Géopolitique__ et surtout __Semi-RP__.
 
 :dart: Les principaux objectifs sont de créer une ou plusieurs villes, de les faire grandir et peut être rejoindre une nation, jusque devenir une des villes les plus importantes économiquement, architecturalement ou militairement parlant. 
 

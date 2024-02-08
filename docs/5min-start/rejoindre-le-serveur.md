@@ -11,8 +11,8 @@ Ce modpack vous permet entre autre, une très bonne optimisation du jeu, la poss
 
 Une fois votre launcher favori lancé, et Fabiously Optimized installé, il est temps de se rendre dans le menu des serveurs, d'ajouter un serveur avec l'ip :
 
-## play.atlasmc.fr
+## play.atlasnation.fr
 
 :warning: Pensez a autoriser les ressources packs !
 
-![Rejoindre AtlasMC](../../static/img/rejoindre-atlasmc.png)
+![Rejoindre AtlasNation](../../static/img/rejoindre-atlasmc.png)
