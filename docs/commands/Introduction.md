@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# I- 👋 Généralité
+# 📄 Généralité
 
 - Ici vous retrouverez toutes les commandes utiles en début de jeu. Nous vous conseillons d'en prendre connaissance avant de vous lancer dans votre nouvelle aventure !
 
@@ -26,7 +26,7 @@ sidebar_position: 1
 
 ## 2- Commencer l'aventure
 
-`/jobs join (Métier)` : Rejoindre un métier pour gagner de l'argent. *(Voir II- Jobs pour plus d'information)*
+`/jobs join (Métier)` : Rejoindre un métier pour gagner de l'argent. *(Voir [les métiers](/docs/commands/towny.md) pour plus d'information)*
 
 `/towny prices` : Affiche les prix pour créer une ville et son coût journalier.
 

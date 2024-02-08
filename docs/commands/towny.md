@@ -2,13 +2,13 @@
 sidebar_position: 3
 ---
 
-# III- 🏡 Les villes et nations
+# 🏡 Les villes et nations
 
 - Towny est un plugin de protection de zone et de simulation de ville et de nation qui vous permet de créer, protéger et de gérer votre ville, de posséder des terres ainsi que de former des nations et des alliances.
 
 *Beaucoup de possibilité sont disponible dans ce plugin, vous retrouverez donc ici une courte liste des commandes les plus importantes.*
 
-## 1- Gestion d'une Ville et d'une Nation
+## Gestion d'une Ville et d'une Nation
 
 - Pour commencer, il existe trois catégorie de commande :
 
@@ -27,11 +27,3 @@ sidebar_position: 3
 `/town toggle` : Possibilité d'activer ou de désactiver certain paramètre dans votre ville (pvp, public, explosion, feu, mobs, taxes, libre d'accès).
 
 `/town (deposit/withdraw) [montant]` : Déposer ou retirer de l'argent dans la ville.
-
-- Toutes les informations sur ce plugin ne sont pas référencées ici, nous vous conseillons de découvrir pas vous-même ce plugin sur notre serveur ou de consulter un wiki.
-
-Wiki : [TownyPlugin](https://wiki.ccnetmc.com/Guides/TownyPlugin)
-
-## 2- Guerres
-
-*Soon...*

@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Rejoindre le serveur Minecraft
+# 🎟️ Rejoindre le serveur Minecraft
 
 Le serveur Minecraft est actuellement en version `1.20.1`. Vous pouvez le rejoindre depuis n'importe quel launcher.
 

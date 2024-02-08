@@ -3,7 +3,7 @@ slug: /
 sidebar_position: 1
 ---
 
-# Bienvenue sur AtlasMC
+# 👋 Bienvenue sur AtlasMC
 
 AtlasMC est un mode de jeu **Nation**, **Semi-RP** et **Géopolitique**. C'est a vous, cher voyageurs de bâtir, d'entretenir et protéger votre royaume, nation, civilisation...
 

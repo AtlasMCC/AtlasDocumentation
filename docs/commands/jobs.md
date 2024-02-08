@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# II- 👷 Les métiers
+# 👷 Les métiers
 
 
 Les Jobs sont des moyens de gagner de l'argent grâce à différents métiers prédéfinit.
@@ -24,13 +24,11 @@ Sur Atlas, il en existe **7**, chacun avec ses différentes spécificités.
 
 ## Listes des commandes utiles
 
+Vous pouvez gérer vos métiers, les rejoindre ou les quitter depuis le `/menu` principal, dans l'onglet `Métiers`. Mais les commandes sont aussi disponibles :
+
 `/jobs gui` : Ouvre une interface de tout les métiers disponibles afin de les rejoindre ou de les quitter.  Vous pouvez également voir de quel manière gagner de l'argent pour chacun des métiers.
 
 `/jobs browse` :  Ouvre une interface de tout les métiers disponibles afin de voir de quel manière gagner de l'argent pour chacun des métiers.
-
-Vous pouvez gérer vos métiers, les rejoindre ou les quitter depuis le `/menu` principal, dans l'onglet `Métiers`
-
-Sinon, les commandes ci-dessous sont disponibles :
 
 `/jobs join (Métier)` : Rejoindre un métier.
 
