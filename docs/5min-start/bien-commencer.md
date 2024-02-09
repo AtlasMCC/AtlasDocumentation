@@ -64,12 +64,15 @@ C'est a **vous** de survivre et d'établir vos commerces.
 ### :money_with_wings: Voici quelques tips pour gagner facilement son argent :
 - Récupérer son [daily](../commands/daily.md), sur la première semaine de jeu. Si vous le récupérez tout les jours, vous aurez une récompense supplémentaire
 - Rejoindre un métier. Il en existe plusieurs comme le mineur, le pêcheur ou encore le chasseur. Plus de détail dans le [guide des métiers](/docs/commands/jobs.md)
-- Commercez avec les autres joueurs. Vendez vos items ou services (en tant que builder, redstonneur, mercenaire par exemple). Vous trouverez une zone Market au spawn où installer votre échoppe pour trouvez vos futurs clients !
+- [Commercez](../commands/shop.md) avec les autres joueurs. Vendez vos items ou services (en tant que builder, redstonneur, mercenaire par exemple). Vous trouverez une zone Market au spawn où installer votre échoppe pour trouvez vos futurs clients !
   
 
 ## :crossed_swords: Batailles
 
-Les batailles ne sont pas encore disponible, mais elles arrivent bientôt !
+Battez vous pour la gloire de votre nation, montez en puissance, étendez votre terriroire...
+
+Vous avez la possibilité de déclarer une [bataille](../commands/batailles.md)
+
 
 ---
 

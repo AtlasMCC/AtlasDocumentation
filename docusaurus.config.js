@@ -82,7 +82,7 @@ const config = {
           //},
           //{to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://atlasnation.fr/map',
+            href: 'https://map.atlasnation.fr/',
             label: '🗺️ Voir la map',
           },
           {
