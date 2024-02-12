@@ -37,3 +37,5 @@ De manière général, sur Discord, veillez a respecter la [Charte Discord](http
 :information_source: Les modérateurs interprètent le règlement, c'est donc à eux de décider s'il y a violation du règlement ou non.
 
 :information_source: Attention, ce n'est pas parce qu'une chose n'est pas interdite qu'elle est autorisée ! Faites appel à votre bon sens !
+
+ℹ️ En cas de problèmes, contactez le staff.

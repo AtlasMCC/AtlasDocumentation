@@ -15,3 +15,18 @@ Rejoignez-nous dès maintenant sur :
 ## play.atlasnation.fr.
 
 Découvrez l'étendue des possibilités d'AtlasNation en suivant notre documentation !
+
+# 📂 Ressources
+
+Voici une liste des ressources utiles pour AtlasNation.
+
+🗺️ [Map Interactive](https://map.atlasnation.fr) \
+📜 [Règlement](https://atlasmcc.github.io/AtlasDocumentation/reglement-atlasmc/discord)
+
+
+# 🔗 Liens réseaux sociaux
+
+Les liens de nos réseaux sociaux
+
+📡 [Discord](https://discord.gg/ySA7wrcYrj) \
+📷 [Instagram](https://www.instagram.com/atlasmc_off/)
