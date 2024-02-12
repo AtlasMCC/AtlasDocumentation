@@ -19,7 +19,7 @@ Vous pouvez voir toutes les configurations possibles en faisant un "clic droit" 
   - Modifier le prix
   - Supprimer la boutique
 
-## BOUTIQUE SPAWN
+## Boutiques au spawn
 Pour encore plus de visibilité, vous pouvez louer des zones privatives afin d'y vendre vos produits. Pour ce faire, il vous suffit de faire un "clic droit" sur le panneau de location. À vous de choisir la parcelle qui convient à vos goûts et à votre budget.
 
 

@@ -13,7 +13,6 @@ Sur Atlas, il en existe **7**, chacun avec ses différentes spécificités.
 	- Chasseur
 	- Mineur
 	- Bûcheron
-	- Éleveur
 
 
 ### A savoir :
