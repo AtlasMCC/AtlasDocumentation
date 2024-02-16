@@ -32,11 +32,13 @@ Le [guide RP](https://blank.org) est également disponible.
 
 :dart: Les principaux objectifs sont de créer une ou plusieurs villes, de les faire grandir et peut être rejoindre une nation, jusque devenir une des villes les plus importantes économiquement, architecturalement ou militairement parlant. 
 
-## :world_map: Map de jeux
+## :world_map: Maps de jeu
 
 Le serveur est découpé en deux mondes.\
 La **WorldMap** est la map principale, là où vous allez constuire votre ville ou votre nation. C'est un planisphère de la Terre.\
 Le **RessourceWorld** est un monde ressource, regénéré toutes les semaines de façon aléatoire. C'est ici que vous allez récolter vos précieuses ressources.
+
+Le RessourceWorld est réinitialisé toutes les semaines.
 
 ## :house_with_garden: Villes et Nations
 

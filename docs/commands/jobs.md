@@ -6,7 +6,7 @@ sidebar_position: 2
 
 
 Les Jobs sont des moyens de gagner de l'argent grâce à différents métiers prédéfinit.
-Sur Atlas, il en existe **7**, chacun avec ses différentes spécificités.
+Sur Atlas, il en existe **6**, chacun avec ses différentes spécificités.
 	- Enchanteur
 	- Fermier
 	- Pêcheur
@@ -25,7 +25,7 @@ Sur Atlas, il en existe **7**, chacun avec ses différentes spécificités.
 
 Vous pouvez gérer vos métiers, les rejoindre ou les quitter depuis le `/menu` principal, dans l'onglet `Métiers`. Mais les commandes sont aussi disponibles :
 
-`/jobs gui` : Ouvre une interface de tout les métiers disponibles afin de les rejoindre ou de les quitter.  Vous pouvez également voir de quel manière gagner de l'argent pour chacun des métiers.
+`/job` : Ouvre une interface de tout les métiers disponibles afin de les rejoindre ou de les quitter.
 
 `/jobs browse` :  Ouvre une interface de tout les métiers disponibles afin de voir de quel manière gagner de l'argent pour chacun des métiers.
 
