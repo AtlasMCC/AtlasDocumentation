@@ -20,7 +20,7 @@ Découvrez l'étendue des possibilités d'AtlasNation en suivant notre documenta
 
 Voici une liste des ressources utiles pour AtlasNation.
 
-🗺️ [Map Interactive](https://map.atlasnation.fr) \
+🗺️ [Map Interactive](http://map.atlasnation.fr) \
 📜 [Règlement](https://atlasmcc.github.io/AtlasDocumentation/reglement-atlasmc/discord)
 
 
