@@ -32,10 +32,13 @@ sidebar_position: 3
 
 `/nation new [Nom de la nation]` : **Créez une nouvelle nation** au nom indiqué. La ville dont vous êtes le maire sera la capitale de cette nation.
 
-**Information**
+
+:::info
 
 - Une ville ou une nation a besoin d'entretien, et celui-ci coûte 5U par jour et par claim. Si vous n'avez pas déposé suffisamment d'argent dans votre banque, votre ville ou votre nation sera supprimée.
 - Les commandes entre `/town` et `/nation` sont sensiblement les mêmes.
+
+:::
 
 **Commande utiles**
 
