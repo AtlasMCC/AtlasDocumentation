@@ -30,9 +30,3 @@ Trouvez votre âme soeur mariez vous avec elle et profitez d'avantages partagés
 `/marry home` : Vous téléporte dans votre chunk privé.
 
 `/marry delhome` : Supprime votre chunk privé.
-
-*Partage d'inventaire ⇩*
-
-`/marry backpack` : Ouvrir l'inventaire de votre partenaire.
-
-`/marry backpack (on/off)` : Autoriser ou non d'avoir l'accès à votre inventaire.

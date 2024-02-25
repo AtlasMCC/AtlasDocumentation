@@ -13,17 +13,42 @@ sidebar_position: 3
 - Pour commencer, il existe trois catégorie de commande :
 
 `/towny` : Généralité et info sur l'ensemble du plugin.
+
 `/town` : Spécialiser pour les commandes de ville. `/t`
+
 `/nation` : Spécialiser pour les commandes de nation. `/n`
+
+**Rejoindre une ville**
+
+**1-** Demander à une ville de vous inviter avec `/t add <pseudo>` et accepter avec `/accept [Nom de la ville]`
+
+**2-** Regarder les villes ouvertes avec `/t list` et rejoingnez là avec `/t join [Nom de la ville]`
+
+**Créer une ville**
+
+`/town new [Nom de la ville]` : **Créée une nouvelle ville** au nom indiqué dont vous serez le maire.
+
+**Créer une nation**
+
+`/nation new [Nom de la nation]` : **Créez une nouvelle nation** au nom indiqué. La ville dont vous êtes le maire sera la capitale de cette nation.
+
+**Information**
+
+- Une ville ou une nation a besoin d'entretien, et celui-ci coûte 5U par jour et par claim. Si vous n'avez pas déposé suffisamment d'argent dans votre banque, votre ville ou votre nation sera supprimée.
+- Les commandes entre `/town` et `/nation` sont sensiblement les mêmes.
+
+**Commande utiles**
 
 `/towny prices` : Affiche les prix de la création d'une ville ou d'une nation et le coût d'entretien. 
 
 `/towny map (hug/big)` :  Vous permet d'afficher une carte (dans le chat) où y figure les différentes parcelles, ville et nation par chunk (big: map plus grande; hug: affiche une mimimap dynamique)
-
-`/town new [Nom de la ville]` : Créée une nouvelle ville au nom indiquer dont vous serez le maire.
 
 `/town toggle neutral (on/off)` : Active ou Désactive la neutralité d'une ville, si elle est activée, vous ne pouvez pas entrer en guerre (coût supplémentaire quotidien).
 
 `/town toggle` : Possibilité d'activer ou de désactiver certain paramètre dans votre ville (pvp, public, explosion, feu, mobs, taxes, libre d'accès).
 
 `/town (deposit/withdraw) [montant]` : Déposer ou retirer de l'argent dans la ville.
+
+- Pour vous aider à mieux comprendre ce plugin, nous vous conseillons de regardez l'un des nombreux wikis disponibles.
+
+Wiki : [Towny](https://wiki.ccnetmc.com/Guides/TownyPlugin)
