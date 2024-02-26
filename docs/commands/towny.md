@@ -46,12 +46,8 @@ sidebar_position: 3
 
 `/towny map (hug/big)` :  Vous permet d'afficher une carte (dans le chat) où y figure les différentes parcelles, ville et nation par chunk (big: map plus grande; hug: affiche une mimimap dynamique)
 
-`/town toggle neutral (on/off)` : Active ou Désactive la neutralité d'une ville, si elle est activée, vous ne pouvez pas entrer en guerre (coût supplémentaire quotidien).
+`/town toggle neutral (on/off)` : Active ou désactive la neutralité d'une ville ou d'une nation. Si elle est activée, vous ne pouvez pas entrer en guerre. Cependant, vous devrez payer un coût journalier supplémentaire de 500U pour les villes et de 2.000U pour les nations
 
 `/town toggle` : Possibilité d'activer ou de désactiver certain paramètre dans votre ville (pvp, public, explosion, feu, mobs, taxes, libre d'accès).
 
 `/town (deposit/withdraw) [montant]` : Déposer ou retirer de l'argent dans la ville.
-
-- Pour vous aider à mieux comprendre ce plugin, nous vous conseillons de regardez l'un des nombreux wikis disponibles.
-
-Wiki : [Towny](https://wiki.ccnetmc.com/Guides/TownyPlugin)

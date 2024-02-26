@@ -4,15 +4,13 @@ sidebar_position: 5
 
 # ⚔️ Batailles
 
-Cette section est en cours de rédaction.
-Merci de revenir plus tard.
-
 # Comment fonctionne les guerres sur AtlasNation ?
 
-Le plugin de guerre que nous utilisons se nomme Eventwar. Il est très facile à utiliser puisqu’il ne comporte que quelques commandes, mais sont fonctionnement semble plus complexe à première vue. Pas de panique, ça va bien se passer !
+Les conflits sur AtlasNation sont une partie intégrante du serveur. Les guerres sont là lorsque les discussions a l'amiable ne suffise plus.
+Nous allons vous expliquer comment déclarer une guerre ainsi que son déroulement.
 
 :::danger
-DISCLAMER : Ce wiki ne concerne que le serveur AtlasNation. La configuration du plugin étant très personnalisable, il se peut que son fonctionnement ne vous soit pas familier si vous l’avez déjà rencontré. C’est parti !
+DISCLAMER : Les déclarations de guerres doivent être réalisés de manière RP.
 :::
 
 # Les différents types de guerres
@@ -40,8 +38,8 @@ Pour déclarer une guerre, vous aurez besoin d’un livre de Déclaration de Gue
 Chaque ville génère **10 tokens par jours** si elle remplit les conditions suivantes :
 
 - la ville et sa nation ne sont pas en guerre.
-- la ville n’est pas pacifique (_peaceful_), un statut qui protège des déclaration de guerre en contrepartie d’un coût d’entretient de la ville supplémentaire de **+25U**, configurable via la commande `/t toggle peaceful [on/off]`
-- la ville n’est pas dans une nation pacifique (_peaceful_), un statut qui protège des déclaration de guerre en contrepartie d’un coût d’entretient de la ville supplémentaire de **+100U**, configurable via la commande `/n toggle peaceful [on/off]`
+- la ville n’est pas pacifique (_peaceful_), un statut qui protège des déclaration de guerre en contrepartie d’un coût d’entretient de la ville supplémentaire de **+500U**, configurable via la commande `/t toggle peaceful [on/off]`
+- la ville n’est pas dans une nation pacifique (_peaceful_), un statut qui protège des déclaration de guerre en contrepartie d’un coût d’entretient de la ville supplémentaire de **+2000U**, configurable via la commande `/n toggle peaceful [on/off]`
 
 ---
 
@@ -70,8 +68,8 @@ Une fois la guerre déclarée, vous bénéficierez de 3 minutes de préparations
 
 :::info
 Spécificités des révoltes (RIOT, CIVIL WAR, INDEPENDANCE WAR)
-> Durant le temps de préparation (3 minutes), les joueurs concernés par le conflit devront choisir un camp, auquel cas il ne pourront pas participer au conflit. Pour choisir un camp, exécutez l’une des deux commandes suivantes :
-> `/declare government`
+> Durant le temps de préparation (3 minutes), les joueurs concernés par le conflit devront choisir un camp, auquel cas il ne pourront pas participer au conflit. Pour choisir un camp, exécutez l’une des deux commandes suivantes : \
+> `/declare government` \
 > `/declare rebel`
 :::
 
@@ -88,13 +86,13 @@ Lorsque vous êtes en guerre, certaines fonctionnalités sont bloqués, car seul
 
 Dans les claims des villes en guerre :
 
-- activation des explosions (les construction détruites sont automatiquement réparés)
-- activation de la propagation du feu
-- octroie de certaines permissions aux joueurs participant aux guerres
+- Activation des explosions (les construction détruites seront automatiquement réparés)
+- Activation de la propagation du feu
+- Octroie de certaines permissions aux joueurs participant aux guerres
     - ITEMUSE (utilisation d’items comme les potions, arc…)
     - SWITCH (possibilité d’interagir avec les blocs comme les coffres, portes, redstone…)
 
-Permissions
+Permissions :
 
 - Les villes en guerre ne peuvent plus accueillir de nouveaux membres durant le conflit
 - Les nations en guerre ne peuvent plus accueillir de nouveaux membres durant le conflit
@@ -129,7 +127,7 @@ Voici les différentes conditions de victoires, et les moyens d’y parvenir.
 Cette condition de victoire n’est obtenable que si le camp adversaire capitule. Lorsque vous vous rendez via la commande `/surrender`, cette demande de capitulation est proposé aux adversaires, qui peuvent l’accepter ou la refuser.
 
 :::tip
-Utilisez divers stratégies pour contraindre votre adversaire à capituler. Même si vous êtes libre de refuser une demande de capitulation, nous vous encourageons à justifier ce refus de manière RP.
+Utilisez diverses stratégies pour contraindre votre adversaire à capituler. Même si vous êtes libre de refuser une demande de capitulation, nous vous encourageons à justifier ce refus de manière RP.
 :::
 
 Vous pouvez capituler de plusieurs manières
@@ -137,7 +135,7 @@ Vous pouvez capituler de plusieurs manières
 
 | Commandes                                                | Descriptions                                                                              |
 | -------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| `/surrender whitepeace`                                  | Paix blanche, le plugin n’effectuera aucun transfert de butin ou de territoire            |
+| `/surrender whitepeace`                                  | Paix blanche, Aucun transfert de butin ou de territoire.            |
 | `/surrender money {nombre}`                              | Vous vous rendez en offrant une certaine somme d’argent à l’adversaire                    |
 | `/surrender town {ville1 ville 2 ville3}`                | Vous vous rendez en offrant une ou plusieurs villes aux adversaires, qui seront conquises |
 | `/surrender money {nombre} town {ville1 ville 2 ville3}` | Vous vous rendez en offrant à la fois de l’argent mais aussi une ou plusieurs villes      |
