@@ -6,7 +6,7 @@ sidebar_position: 5
 
 # Comment fonctionne les guerres sur AtlasNation ?
 
-Les conflits sur AtlasNation sont une partie intégrante du serveur. Les guerres sont là lorsque les discussions a l'amiable ne suffise plus.
+Les conflits sur AtlasNation sont une partie intégrante du serveur. Les guerres sont là lorsque les discussions à l'amiable ne suffisent plus. \
 Nous allons vous expliquer comment déclarer une guerre ainsi que son déroulement.
 
 :::danger
@@ -62,7 +62,7 @@ Chaque type de guerre a un prix différent (prix unitaire d’un livre de chaque
 
 ## Lancer une guerre
 
-Une fois votre livre obtenu, gardez le dans votre main principale et déclarer une guerre via la commande `/declare war token [type de guerre] [nom de la ville/nation que vous attaquez]`. Bien entendu, le type de guerre mentionné dans la commande doit être le même que le type de guerre du livre que vous tenez en main.
+Une fois votre livre obtenu, gardez-le dans votre main principale et déclarez une guerre via la commande `/declare war token [type de guerre] [nom de la ville/nation que vous attaquez]. Bien entendu, le type de guerre mentionné dans la commande doit être le même que le type de guerre du livre que vous tenez en main.
 
 Une fois la guerre déclarée, vous bénéficierez de 3 minutes de préparations, tout types de guerres confondus. A vos armes… prêt ? Tirez !
 
@@ -80,7 +80,7 @@ Spécificités des guerres d’alliance (ALLIANCE WAR)
 
 ## Permissions des villes et des nations en période de guerre
 
-Lorsque vous êtes en guerre, certaines fonctionnalités sont bloqués, car seulement disponible en période de paix. Voici les principales :
+Lorsque vous êtes en guerre, certaines fonctionnalités sont bloquées, car seulement disponible en période de paix. Voici les principales :
 
 ---
 
@@ -124,7 +124,7 @@ Voici les différentes conditions de victoires, et les moyens d’y parvenir.
 
 ### Victoire par capitulation (_/surrender_)
 
-Cette condition de victoire n’est obtenable que si le camp adversaire capitule. Lorsque vous vous rendez via la commande `/surrender`, cette demande de capitulation est proposé aux adversaires, qui peuvent l’accepter ou la refuser.
+Lorsque vous vous rendez via la commande /surrender, cette demande de capitulation est proposée aux adversaires, qui peuvent l’accepter ou la refuser.
 
 :::tip
 Utilisez diverses stratégies pour contraindre votre adversaire à capituler. Même si vous êtes libre de refuser une demande de capitulation, nous vous encourageons à justifier ce refus de manière RP.
@@ -161,7 +161,7 @@ Rappel du calcul des points :
 | Pour chaque élimination de nation         | 100 pts |
 
 :::tip 
-Même s’il sont inutilisable, vous pouvez quand même compter les points dans tous les types de guerres, comme mesure indicative (compter le nombre de morts, de claims capturés…).
+Même s’ils sont inutilisables, vous pouvez quand même compter les points dans tous les types de guerres, comme mesure indicative (compter le nombre de morts, de claims capturés…).
 :::
  
 ### Victoire par conquête territoriale (capture des claims de villes)
@@ -223,10 +223,10 @@ Les villes occupées peuvent retrouver leur liberté de deux manières : soit si
 
 ## Nos règles
 
-Bien que que nous soyons opposé à l’ingérence de notre équipe dans le jeu, nous nous réservons le droit d’intervenir en cas de conflit dépassant ce cadre.
+Bien que nous soyons opposés à l’ingérence de notre équipe dans le jeu, nous nous réservons le droit d’intervenir en cas de conflit dépassant ce cadre.
 
-Nous ne tolérons pas la toxicité. Les guerres ne doivent pas être motivés par l’envie de déranger “pour le fun”, ou à l’inverse de combattre sans réelles motivations autre que le plaisir de tuer les autres, sauf si l’arrangement est définit consensuellement entre les participants. De même, nous ne tolérons pas le grief gratuit et irraisonné.
+Nous ne tolérons pas la toxicité. Les guerres ne doivent pas être motivées par l’envie de déranger “pour le fun”, ou à l’inverse de combattre sans réelles motivations autres que le plaisir de tuer les autres, sauf si l’arrangement est défini consensuellement entre les participants. De même, nous ne tolérons pas le grief gratuit et irraisonné.
 
-Nous rappelons que les règles de respects et de savoir-vivre s’appliquent aussi durant les guerres. Si ces événements ont tendance à provoquer chez vous de la frustration, je vous conseille personnellement de fermer votre session et de vous poser en ouvrant un livre (sans rire ça fait du bien). N’oubliez pas que vous jouez un jeu, et que vous êtes là pour vous amusez.
+Nous rappelons que les règles de respects et de savoir-vivre s’appliquent aussi durant les guerres. Si ces événements ont tendance à provoquer chez vous de la frustration, je vous conseille personnellement de fermer votre session et de vous poser en ouvrant un livre (sans rire, ça fait du bien.). N’oubliez pas que vous jouez un jeu, et que vous êtes là pour vous amuser.
 
-A l’inverse, les guerres font partie du jeu. Vous pouvez être amené à combattre, et nous (le staff) ne feront rien contre. Entouré vous d’alliés ou demander la protection des plus puissants.
+À l’inverse, les guerres font partie du jeu. Si vous êtes amenés à vous battre, le staff n'y fera rien. Entouré vous d’alliés où demander la protection des plus puissants.
