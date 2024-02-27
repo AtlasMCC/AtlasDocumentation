@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkatlas_mc_wiki=self.webpackChunkatlas_mc_wiki||[]).push([[647],{7121:(e,s,a)=>{a.r(s),a.d(s,{default:()=>n});a(6540);var r=a(53),c=a(1003),t=a(7559),u=a(2831),i=a(9408),l=a(4848);function n(e){return(0,l.jsx)(c.e3,{className:(0,r.A)(t.G.wrapper.docsPages),children:(0,l.jsx)(i.A,{children:(0,u.v)(e.route.routes)})})}}}]);
