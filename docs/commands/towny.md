@@ -51,3 +51,30 @@ sidebar_position: 3
 `/town toggle` : Possibilité d'activer ou de désactiver certain paramètre dans votre ville (pvp, public, explosion, feu, mobs, taxes, libre d'accès).
 
 `/town (deposit/withdraw) [montant]` : Déposer ou retirer de l'argent dans la ville.
+
+**Les Grades de ville**
+
+| Permissions | Maire | Vise Maire | Assistant | Donateur | Vip | Shérif |
+|:-----------:|:-----:|:----------:|:---------:|:--------:|:---:|:------:|
+| Ajouter un membre |✅|✅|❌|❌|❌|❌|
+| Afficher la liste des membres |✅|✅|✅|✅|❌|❌|
+| Ajouter un joueur de confiance |✅|❌|❌|❌|❌|❌|
+| Liste des alliés |✅|✅|❌|❌|❌|❌|
+| Liste des ennemies |✅|✅|❌|❌|❌|❌|
+| Historique de la banque |✅|✅|❌|❌|❌|❌|
+| Déposer de l'argent |✅|✅|✅|✅|✅|✅|
+| Retirer de l'argent |✅|✅|❌|❌|❌|❌|
+| Réclamer un chunk |✅|✅|❌|❌|❌|❌|
+| Retirer un claim |✅|✅|❌|❌|❌|❌|
+| Mettre en vente un claim |✅|❌|❌|❌|❌|❌|
+| Retirer de la vente un claim |✅|❌|❌|❌|❌|❌|
+| Mettre un membre en prison |✅|✅|✅|❌|❌|✅|
+| Libérer un prisonnier |✅|✅|✅|❌|❌|✅|
+| Ban un joueur de votre ville |✅|❌|❌|❌|❌|❌|
+| Définir un hors la loi |✅|✅|❌|❌|❌|✅|
+| Virer un membre |✅|❌|❌|❌|❌|❌|
+| Fusionner deux villes |✅|❌|❌|❌|❌|❌|
+| Changer les paramètre de la ville |✅|✅|❌|❌|❌|❌|
+| Changer les paramètre d'un claim |✅|✅|❌|❌|❌|❌|
+| Donner un rôle à un membre |✅|✅|✅|❌|❌|❌|
+| Racheter un ville |✅|❌|❌|❌|❌|❌|
