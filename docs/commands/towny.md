@@ -54,7 +54,7 @@ sidebar_position: 3
 
 **Les Grades de ville**
 
-| Permissions | Maire | Vise Maire | Assistant | Donateur | Vip | Shérif |
+| Permissions | Maire | Vice Maire | Assistant | Donateur | Vip | Shérif |
 |:-----------:|:-----:|:----------:|:---------:|:--------:|:---:|:------:|
 | Ajouter un membre |✅|✅|❌|❌|❌|❌|
 | Afficher la liste des membres |✅|✅|✅|✅|❌|❌|
