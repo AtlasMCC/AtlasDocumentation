@@ -36,25 +36,39 @@ const config = {
     locales: ['fr'],
   },
 
+  plugins: [
+    async function TailwindCSS(context, options) {
+      return {
+        name: "docusaurus-tailwindcss",
+        configurePostCss(postcssOptions) {
+          // Appends TailwindCSS and AutoPrefixer.
+          postcssOptions.plugins.push(require("tailwindcss"));
+          postcssOptions.plugins.push(require("autoprefixer"));
+          return postcssOptions;
+        },
+      };
+    },
+  ],
+
   presets: [
     [
       '@docusaurus/preset-classic',
       {
         docs: {
-          routeBasePath: '/', 
+          //routeBasePath: '/', 
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://discord.gg/ySA7wrcYrj',
         },
-        //blog: {
-          //showReadingTime: true,
+        blog: {
+          showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           //editUrl:
           //  'https://discord.gg/ySA7wrcYrj',
-        //},
+        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -74,13 +88,13 @@ const config = {
           src: 'img/ArrondiAtlas-removebg-preview.png',
         },
         items: [
-          //{
-          //  type: 'docSidebar',
-          //  sidebarId: 'tutorialSidebar',
-          //  position: 'left',
-          //  label: 'Documentation',
-          //},
-          //{to: '/blog', label: 'Blog', position: 'left'},
+          {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'Documentation',
+          },
+          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'http://map.atlasnation.fr/',
             label: '🗺️ Voir la map',
@@ -132,17 +146,17 @@ const config = {
               },
             ],
           },
-          //{
-          //  title: 'Pages',
-          //  items: [
-          //    {
-          //      label: 'Blog',
-          //      to: '/blog',
-          //    },
-          //  ],
-          //},
+          {
+            title: 'Pages',
+            items: [
+              {
+                label: 'Blog',
+                to: '/blog',
+              },
+            ],
+          },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} AtlasMC. Construit avec amour ❤️`,
+        copyright: `Copyright © 2022 - ${new Date().getFullYear()} AtlasMC. Construit avec amour ❤️`,
       },
       prism: {
         theme: prismThemes.github,
