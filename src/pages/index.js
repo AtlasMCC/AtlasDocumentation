@@ -1,6 +1,6 @@
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
-import { Clipboard, Label, TextInput } from "flowbite-react"
+import { Clipboard, Label, TextInput, Accordion } from "flowbite-react"
 
 
 function HomepageHeader() {
@@ -125,6 +125,79 @@ function HomepageHeader() {
     </div>
 
   </div>
+</section>
+<section class="mx-2">
+  <h2 class="text-4xl font-semibold my-4">Fonctionnalités intéressantes</h2>
+
+
+    <Accordion>
+      <Accordion.Panel>
+        <Accordion.Title>Véhicules</Accordion.Title>
+        <Accordion.Content>
+          <p className="mb-2 text-gray-500 dark:text-gray-400">
+            Prenez place au volant des véhicules, qui permettent de vous déplacer plus vite sur le serveur.
+          </p>
+        </Accordion.Content>
+      </Accordion.Panel>
+      <Accordion.Panel>
+        <Accordion.Title>Mariage</Accordion.Title>
+        <Accordion.Content>
+          <p className="mb-2 text-gray-500 dark:text-gray-400">
+            Deux joueurs peuvent choisir de se marier, afin de bénficier ensemble de certains avantages. 
+          </p>
+        </Accordion.Content>
+      </Accordion.Panel>
+      <Accordion.Panel>
+        <Accordion.Title>SlimeFun</Accordion.Title>
+        <Accordion.Content>
+          <p className="mb-2 text-gray-500 dark:text-gray-400">
+            <b>SlimeFun</b> permet d'ajouter de nombreuses fonctionnalités, ainsi que des objets, ce qui débloque encore plus de possibilités dans votre survie Minecraft.
+          </p>
+          <p className="mb-2 text-gray-500 dark:text-gray-400">
+            Votre XP vous permettra d'accéder à ces ajouts. Plus elle sera élevée, plus vous pourrez débloquer des compétences et des crafts.
+          </p>
+          <p className="mb-2 text-gray-500 dark:text-gray-400">Parmi les ajouts proposés par <b>SlimeFun</b>, les plus intéressants sont :</p>
+          <ul className="list-disc pl-5 text-gray-500 dark:text-gray-400">
+            <li>Des effets de magie</li>
+            <li>Des sacs à dos</li>
+            <li>Des machines électriques</li>
+            <li>Des gadgets</li>
+            <li>De nouvelles armes et armures</li>
+            <li>De nouveux moyens pour gérer vos items</li>
+            <li>Un réacteur nucléaire</li>
+            <li>Et bien plus encore</li>
+          </ul>
+        </Accordion.Content>
+      </Accordion.Panel>
+
+      <Accordion.Panel>
+        <Accordion.Title>Meubles</Accordion.Title>
+        <Accordion.Content>
+          <p className="mb-2 text-gray-500 dark:text-gray-400">
+            Afin de décorer vos bâtiments d'une manière exceptionnelle, vous pourrez utiliser des <b>meubles 3D</b>.
+          </p>
+        </Accordion.Content>
+      </Accordion.Panel>
+
+      <Accordion.Panel>
+        <Accordion.Title>Movecraft</Accordion.Title>
+        <Accordion.Content>
+          <p className="mb-2 text-gray-500 dark:text-gray-400">
+            N'avez vous pas déjà rêvé de pouvoir construire des véhicules fonctionnels comme vous le souhaitez, à l'aide de blocs classiques ? <b>MoveCraft</b> est l'outil idéal pour faire de ce rêve une réalité.
+          </p>
+          
+        </Accordion.Content>
+      </Accordion.Panel>
+    </Accordion>
+
+
+
+
+
+
+
+
+
 </section>
 </div>
 
