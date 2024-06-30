@@ -1,11 +1,13 @@
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
+import { Clipboard, Label, TextInput } from "flowbite-react"
+
 
 function HomepageHeader() {
   return (
 
-
-<section class="bg-center bg-cover bg-no-repeat bg-[url('/static/img/atlasbackground.png')] bg-gray-700 bg-blend-multiply">
+<div class="scroll-smooth">
+<section class="flex bg-center bg-cover bg-no-repeat bg-[url('/static/img/atlasbackground.png')] bg-gray-700 bg-blend-multiply">
 
 
   <div class="px-4 mx-auto max-w-screen-xl text-center py-0">
@@ -22,11 +24,11 @@ function HomepageHeader() {
         <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">AtlasNation</h1>
         <p class="mb-3 font-normal text-gray-700 dark:text-gray-200">Bienvenue</p>
         <a href="#joinserver" class="group/hoveranimation no-underline hover:no-underline inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
-          <svg class="transition transform group-hover/hoveranimation:translate-y-0.5 motion-reduce:transition-none motion-reduce:hover:transform-none mx-1 w-6 h-6 text-gray-800 dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+          <svg class="transition transform group-hover/hoveranimation:translate-y-0.5 motion-[#FF0000]uce:transition-none motion-[#FF0000]uce:hover:transform-none mx-1 w-6 h-6 text-gray-800 dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
             <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m19 9-7 7-7-7"/>
           </svg>
           Commencer l'aventure
-          <svg class="transition transform group-hover/hoveranimation:translate-y-0.5 motion-reduce:transition-none motion-reduce:hover:transform-none mx-1 w-6 h-6 text-gray-800 dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+          <svg class="transition transform group-hover/hoveranimation:translate-y-0.5 motion-[#FF0000]uce:transition-none motion-[#FF0000]uce:hover:transform-none mx-1 w-6 h-6 text-gray-800 dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
             <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m19 9-7 7-7-7"/>
           </svg>
 
@@ -37,6 +39,62 @@ function HomepageHeader() {
     </div>
   </div>
 </section>
+<section>
+  <div class="grid grid-cols-4 gap-4">
+    <a role="button" href="#" class="px-6 py-3.5 inline-flex no-underline hover:no-underline text-white hover:text-white border border-none hover:bg-[#7289d9] focus:ring-4 focus:outline-none focus:ring-[#7289d9] font-medium rounded-lg text-xl font-medium text-center dark:border-[#7289d9] dark:text-white dark:hover:text-white dark:hover:bg-[#7289d9] dark:focus:ring-[#7289d9]">
+    <svg class="w-8 h-8 me-2 text-gray-800 dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 24 24">
+    <path d="M18.942 5.556a16.3 16.3 0 0 0-4.126-1.3 12.04 12.04 0 0 0-.529 1.1 15.175 15.175 0 0 0-4.573 0 11.586 11.586 0 0 0-.535-1.1 16.274 16.274 0 0 0-4.129 1.3 17.392 17.392 0 0 0-2.868 11.662 15.785 15.785 0 0 0 4.963 2.521c.41-.564.773-1.16 1.084-1.785a10.638 10.638 0 0 1-1.706-.83c.143-.106.283-.217.418-.331a11.664 11.664 0 0 0 10.118 0c.137.114.277.225.418.331-.544.328-1.116.606-1.71.832a12.58 12.58 0 0 0 1.084 1.785 16.46 16.46 0 0 0 5.064-2.595 17.286 17.286 0 0 0-2.973-11.59ZM8.678 14.813a1.94 1.94 0 0 1-1.8-2.045 1.93 1.93 0 0 1 1.8-2.047 1.918 1.918 0 0 1 1.8 2.047 1.929 1.929 0 0 1-1.8 2.045Zm6.644 0a1.94 1.94 0 0 1-1.8-2.045 1.93 1.93 0 0 1 1.8-2.047 1.919 1.919 0 0 1 1.8 2.047 1.93 1.93 0 0 1-1.8 2.045Z"/>
+    </svg> Discord
+    </a>
+    
+    <a role="button" href="#" class="px-6 py-3.5 inline-flex no-underline hover:no-underline text-white hover:text-white border border-none hover:bg-[#FF0000] focus:ring-4 focus:outline-none focus:ring-[#FF0000] font-medium rounded-lg text-xl font-medium text-center dark:border-[#FF0000] dark:text-white dark:hover:text-white dark:hover:bg-[#FF0000] dark:focus:ring-[#FF0000]">
+    <svg class="w-8 h-8 me-2 text-gray-800 dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 24 24">
+    <path fill-rule="evenodd" d="M21.7 8.037a4.26 4.26 0 0 0-.789-1.964 2.84 2.84 0 0 0-1.984-.839c-2.767-.2-6.926-.2-6.926-.2s-4.157 0-6.928.2a2.836 2.836 0 0 0-1.983.839 4.225 4.225 0 0 0-.79 1.965 30.146 30.146 0 0 0-.2 3.206v1.5a30.12 30.12 0 0 0 .2 3.206c.094.712.364 1.39.784 1.972.604.536 1.38.837 2.187.848 1.583.151 6.731.2 6.731.2s4.161 0 6.928-.2a2.844 2.844 0 0 0 1.985-.84 4.27 4.27 0 0 0 .787-1.965 30.12 30.12 0 0 0 .2-3.206v-1.516a30.672 30.672 0 0 0-.202-3.206Zm-11.692 6.554v-5.62l5.4 2.819-5.4 2.801Z" clip-rule="evenodd"/>
+    </svg>
+    YouTube
+    </a>
+
+    <a role="button" href="#" class="px-6 py-3.5 inline-flex no-underline hover:no-underline text-white hover:text-white border border-none hover:bg-gradient-to-r from-[#833ab4] via-[#fd1d1d] to-[#fcb045] focus:ring-4 focus:outline-none focus:ring-none font-medium rounded-lg text-xl font-medium text-center dark:border-none dark:text-white dark:hover:text-white dark:hover:bg-gradient-to-r from-[#833ab4] via-[#fd1d1d] to-[#fcb045] dark:focus:ring-[#FF0000]">
+
+    <svg class="w-8 h-8 me-2 text-gray-800 dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+    <path fill="currentColor" fill-rule="evenodd" d="M3 8a5 5 0 0 1 5-5h8a5 5 0 0 1 5 5v8a5 5 0 0 1-5 5H8a5 5 0 0 1-5-5V8Zm5-3a3 3 0 0 0-3 3v8a3 3 0 0 0 3 3h8a3 3 0 0 0 3-3V8a3 3 0 0 0-3-3H8Zm7.597 2.214a1 1 0 0 1 1-1h.01a1 1 0 1 1 0 2h-.01a1 1 0 0 1-1-1ZM12 9a3 3 0 1 0 0 6 3 3 0 0 0 0-6Zm-5 3a5 5 0 1 1 10 0 5 5 0 0 1-10 0Z" clip-rule="evenodd"/>
+    </svg>
+
+    Instagram
+    </a>
+
+    <a role="button" href="#" class="px-6 py-3.5 inline-flex no-underline hover:no-underline text-white hover:text-white border border-none hover:bg-none focus:ring-4 focus:outline-none focus:ring-none font-medium rounded-lg text-xl font-medium text-center dark:border-none dark:text-white dark:hover:text-white dark:hover:bg-none dark:focus:ring-none ">
+    <svg class="w-6 h-8 me-2 text-gray-800 dark:text-white" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+      <path d="M9 0h1.98c.144.715.54 1.617 1.235 2.512C12.895 3.389 13.797 4 15 4v2c-1.753 0-3.07-.814-4-1.829V11a5 5 0 1 1-5-5v2a3 3 0 1 0 3 3z" />
+    </svg>
+    TikTok
+    </a>
+    </div>
+</section>
+<section id="joinserver">
+
+  <h2 class="text-4xl font-semibold">Commencer l'aventure</h2>
+
+  <h3 class="mb-3 mt-5 text-center text-3xl font-semibold">Adresse IP</h3>
+
+    <div className="w-full text-center  mx-auto">
+      <div className="relative inline-flex text-center px-auto">
+        <TextInput id="serverIP" placeholder="" value="play.atlasnation.fr" readOnly class="text-center text-xl bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" />
+        <Clipboard.WithIcon valueToCopy="play.atlasnation.fr" class="absolute right-4 top-auto h-full text-xl" />
+      </div>
+    </div>
+
+  <h3 class="mb-3 mt-5 text-center text-3xl font-semibold">Version Minecraft</h3>
+
+    <div className="w-full text-center mx-auto">
+      <div className="relative inline-flex text-center px-auto">
+        <TextInput id="mcVersion" placeholder="" value="Java 1.20.1" readOnly class="text-center text-xl bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" />
+      </div>
+    </div>
+
+</section>
+</div>
+
   );
 }
 
