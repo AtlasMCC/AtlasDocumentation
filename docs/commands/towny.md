@@ -77,4 +77,4 @@ sidebar_position: 3
 | Changer les paramètre de la ville |✅|✅|❌|❌|❌|❌|
 | Changer les paramètre d'un claim |✅|✅|❌|❌|❌|❌|
 | Donner un rôle à un membre |✅|✅|✅|❌|❌|❌|
-| Racheter un ville |✅|❌|❌|❌|❌|❌|
+| Racheter une ville |✅|❌|❌|❌|❌|❌|
